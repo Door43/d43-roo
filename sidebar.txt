@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[roo:home|Door43 (roo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-roo|d43-roo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-roo/archive/master.zip|d43-roo.zip]]
+
+**Recent Changes**
+{{changes>ns = roo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/roo|Ethnologue data]]
+
